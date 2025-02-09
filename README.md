@@ -1,0 +1,1 @@
+This repository demonstrates a common error in COBOL nested PERFORM loops, where the counter variable is not properly reset, leading to inaccurate results. The bug and its solution are detailed in the provided COBOL code files.
